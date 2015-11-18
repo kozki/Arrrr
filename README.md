@@ -13,6 +13,3 @@ Athors:
 Programmers:
  * Jernej Koželj
  * Metod Ribič
-Designers:
- * Rok Kompare
- * Barbara Naglič
